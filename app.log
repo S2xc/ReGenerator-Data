@@ -1,0 +1,21 @@
+DEBUG:__main__:Запуск приложения Streamlit
+DEBUG:__main__:Отображен загрузчик файлов
+DEBUG:__main__:Запуск приложения Streamlit
+DEBUG:__main__:Отображен загрузчик файлов
+DEBUG:__main__:Файл загружен, начинаем чтение CSV
+DEBUG:__main__:CSV успешно прочитан
+DEBUG:__main__:Датасет сохранен в session_state
+DEBUG:utils:Начало анализа данных
+DEBUG:utils:Инициализация модели из ./google_model_llm/gemma-3-4b-it-Q4_K_M.gguf
+DEBUG:utils:Модель успешно загружена
+DEBUG:utils:Анализ контекста столбцов
+DEBUG:utils:Контекст для столбца Order ID: 
+DEBUG:utils:Контекст для столбца Category: 
+DEBUG:utils:Контекст для столбца Region: 
+DEBUG:utils:Контекст для столбца Sub-Category: 
+DEBUG:utils:Контекст для столбца Customer Name: 
+DEBUG:utils:Контекст для столбца Order Date: 
+DEBUG:utils:Контекст для столбца Sales: 
+DEBUG:utils:Контекст для столбца Profit: 
+DEBUG:utils:Анализ данных завершен
+DEBUG:__main__:Анализ данных завершен
